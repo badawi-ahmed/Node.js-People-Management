@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "fname": "Badawi",
+        "lname": "Ahmed",
+        "age": 20,
+        "city": "Damanhur"
+    },
+    {
+        "id": 2,
+        "fname": "fatima",
+        "lname": "Ahmed",
+        "age": 18,
+        "city": "Damanhur"
+    },
+    {
+        "id": 3,
+        "fname": "nariman",
+        "lname": "Ahmed",
+        "age": 22,
+        "city": "Damanhur"
+    },
+    {
+        "id": 4,
+        "fname": "Ahmed",
+        "lname": "Badawi",
+        "age": 20,
+        "city": "Damanhur"
+    },
+    {
+        "id": 5,
+        "fname": "Aya",
+        "lname": "Sayed",
+        "age": 25,
+        "city": "Tanta"
+    },
+    {
+        "id": 6,
+        "fname": "Abdelrahman",
+        "lname": "Farag",
+        "age": 26,
+        "city": "Aswan"
+    },
+    {
+        "id": 7,
+        "fname": "Mostafa",
+        "lname": "Adel",
+        "age": 27,
+        "city": "PortSaid"
+    },
+    {
+        "id": 8,
+        "fname": "Salma",
+        "lname": "Mahmoud",
+        "age": 19,
+        "city": "Ismailia"
+    },
+    {
+        "id": 9,
+        "fname": "Amr",
+        "lname": "Samir",
+        "age": 28,
+        "city": "Fayoum"
+    },
+    {
+        "id": 10,
+        "fname": "Nour",
+        "lname": "Khaled",
+        "age": 20,
+        "city": "Zagazig"
+    }
+]
